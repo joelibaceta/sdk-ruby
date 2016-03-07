@@ -27,7 +27,7 @@ class Button
 	html =  '<!doctype html>
 			<html>
 				<head>
-					<title>MercadoPago SDK - Create Preapproval Payment and Show Subscription Example</title>
+					<title>mercadopago SDK - Create Preapproval Payment and Show Subscription Example</title>
 				</head>
 			<body>
 				<a href="' + preapprovalPayment['response']['init_point'] + '" name="MP-Checkout" class="orange-ar-m-sq-arall">Pay</a>

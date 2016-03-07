@@ -13,7 +13,7 @@ class Button
 	html =  '<!doctype html>
 			<html>
 				<head>
-					<title>MercadoPago SDK - Create Preference and Show Checkout Example</title>
+					<title>mercadopago SDK - Create Preference and Show Checkout Example</title>
 				</head>
 			<body>
 				<a href="' + preference['response']['init_point'] + '" name="MP-Checkout" class="orange-ar-m-sq-arall">Pay</a>
